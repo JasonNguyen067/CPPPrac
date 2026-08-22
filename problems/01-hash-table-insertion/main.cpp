@@ -3,7 +3,7 @@
 int main() {
     int hashTable[10];
 
-    for (int i = 0; i < 5; i++) {
+    for (int i = 0; i < 10; i++) {
         hashTable[i] = -1;
     }
 
