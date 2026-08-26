@@ -11,3 +11,5 @@ so [2, 3]
 push pushes it to the back so push 5 makes it
 
 [2, 3, 5]
+
+also known as dequeue 
