@@ -2,8 +2,6 @@
 
 do stacks p1, p2
 
-Templates later
-
 Shifting queue
 Circular based queue
 Linkedlist based queue
