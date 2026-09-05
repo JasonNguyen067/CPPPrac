@@ -27,17 +27,17 @@ public:
 
     int pop() {
         if (top < 0) {
-            return;
+            return -1;
         } 
         int poppedVal = data[top];
 
         top -= 1;
-        return;
+        return poppedVal;
     }
 
     int peak() {
         if (top < 0) {
-            return;
+            return -1;
         }
 
         return data[top];
